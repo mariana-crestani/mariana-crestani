@@ -8,7 +8,7 @@ a software developer in the making!
 - 🍊 Fun fact: I'm also a registered dietitian
 
 <a href = "mailto:marianascrestani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-crestani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/marianacrestani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
 ## 💻 Technologies & Tools
@@ -53,5 +53,3 @@ a software developer in the making!
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-crestani)
 
 </div>
-
-<h2  align="center">Check Out My Repos ⬇️ </h2>
