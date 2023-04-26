@@ -3,8 +3,8 @@
 
 a software developer in the making!
 
-- 💻 My latest project is [Shortly](https://github.com/mariana-crestani/Shortly)
-- 🌱 I’m currently learning Typescript
+- 💻 My favorite most recent project is [Shortly](https://github.com/mariana-crestani/Shortly)
+- 🌱 I’m currently learning NestJs
 - 🍊 Fun fact: I'm also a registered dietitian
 
 <a href = "mailto:marianascrestani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
